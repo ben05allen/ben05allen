@@ -6,4 +6,4 @@ I use the following technologies:
 * TypeScript
 * Vue/Nuxt
 
-I'm a co founder of **Rally The Data** which helps organizations grow by connecting them to with their data 🚀
+I'm a co founder of **Rally The Data** -- all will be revealed! 🚀
