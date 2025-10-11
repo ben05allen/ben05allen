@@ -1,8 +1,8 @@
 Hi, I'm Ben (bnln) and I live in Japan 🗾
 
-I use the following technologies:
-* Python 
-* Go
-* TypeScript with Vue/Nuxt
+Here's how I cook:
+* A big serving of Python 🐍 
+* Lightly sprinkled with some Go or Rust
+* And topped off with Vue & Nuxt
 
 I'm an independent contracter turning bytes into competitive advantage 🔥
