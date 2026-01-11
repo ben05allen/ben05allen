@@ -22,9 +22,6 @@ A tool for intelligent photo deduplication. Currently exploring ways to optimize
 
 ---
 
-### 📈 GitHub Insights
-![Top Langs](https://github-readme-stats-bnlns-projects.vercel.app/api/top-langs/?username=ben05allen&layout=compact&hide_border=true&theme=distinguished)
-
 ### 📫 Get in Touch
 - **LinkedIn:** [In/ben05allen](https://linkedin.com/in/ben05allen)
 - **Status:** Available for select contract opportunities involving Python/Rust ecosystems.
