@@ -35,7 +35,7 @@ Excel remains an essential tool in financial markets. This project explores how 
 
 ## Open Source & Community
 
-I'm an organizer of [Tokyo Python](https://www.tokyopython.com/), an English-language Python community in Tokyo, and a contributor to the organization of [PyCon Japan](https://pycon.jp/).
+I'm an organizer of [Tokyo Python](https://www.tokyopython.org/), an English-language Python community in Tokyo, a contributor to the organization of [PyCon Japan](https://pycon.jp/), and a member of [Tokyo Rust](https://tokyorust.org/).
 
 Through these communities, I help bring together developers, maintainers, and technology professionals to share knowledge and explore developments in the Python ecosystem.
 
