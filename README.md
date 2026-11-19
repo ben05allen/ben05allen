@@ -39,7 +39,7 @@ I'm an organizer of [Tokyo Python](https://www.tokyopython.org/), an English-lan
 
 Through these communities, I help bring together developers, maintainers, and technology professionals to share knowledge and explore developments in the Python ecosystem.
 
-I have a particular interest in the changing relationship between open-source development, the intersection between Python and Rust, and the way software is built.
+I have a particular interest in open-source development, the intersection between Python and Rust, and the changing ways that software is built.
 
 ## Connect
 
